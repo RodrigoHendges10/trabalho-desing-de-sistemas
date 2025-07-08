@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    background-color: rgb(13, 13, 14);
+    font-size: x-large;
+    padding: 50px;
+    text-align: center;
+    color:rgb(120, 66, 248);   
+}
+
+#menu{
+    background-color: rgb(227, 227, 236);
+    font-size: large;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+   
+}
+
+#menu a:visited{
+    color: rgb(8, 0, 0);
+    text-decoration: none;
+    
+}
+
+#menu a:hover{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(34, 197, 197);
+}
+
+
+
+#posts{
+    background-color: rgb(234, 243, 250);
+    font-size: medium;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+
+.img-post{
+
+    width: 1000px;
+    
+}
+
+
+#rodape{
+    text-align: right;
+    padding: 20px;
+    
+}
